@@ -21,7 +21,10 @@ and presentation: [PDF](https://github.com/jacqpool/academic_consensus/blob/mast
 - **Reports**: The project report and presentation:
   - [ResearchTool_Final.pdf](https://github.com/jacqpool/academic_consensus/blob/master/reports/ResearchTool_Final.pdf)
   - [ResearchTool_Presentation.pdf](https://github.com/jacqpool/academic_consensus/blob/master/reports/ResearchTool_Presentation.pdf)
-
+  - [ResearchTool_Milestone2.pdf](https://github.com/jacqpool/academic_consensus/blob/master/reports/ResearchTool_Milestone2.pdf)
+  - [ResearchTool_Milestone1.pdf](https://github.com/jacqpool/academic_consensus/blob/master/reports/ResearchTool_Milestone1.pdf)
+  - [ResearchTool_Proposal.gdoc](https://github.com/jacqpool/academic_consensus/blob/master/reports/ResearchTool_Proposal.gdoc)
+  - [CapstoneProject2_ProjectIdeas.gdoc](https://github.com/jacqpool/academic_consensus/blob/master/reports/CapstoneProject2_ProjectIdeas.gdoc)
 
 #
 # Project Proposal
